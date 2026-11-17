@@ -1,5 +1,7 @@
 # ZambeziEstates
 
+**Languages:** English | [Português](README.pt.md)
+
 🌿 **Protecting wildlife, preserving nature.**
 
 We work to protect Zambezi's wildlife and ecosystems through research, community engagement, and conservation initiatives.
